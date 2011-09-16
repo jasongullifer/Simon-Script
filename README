@@ -1,0 +1,11 @@
+Task: data cleaning and coding
+Cari Bogulski and Jason Gullifer
+Last Update: 7.30.2010
+ 
+This program will clean up simon data (remove outliers below 200ms
+and above 1500ms and also 2.5SD above/below the mean). The absolute
+outlier cutoffs may be altered below, if needed.
+Calculates (for each subject):
+ * Simon Score
+ * Congruent, Incongruent, Central trial RTs
+ * Congruent, Incongruent, Central trial Accuracies
